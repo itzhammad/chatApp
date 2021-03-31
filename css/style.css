@@ -1,0 +1,111 @@
+*{
+    margin: 0px; padding: 0px;
+}
+.container{
+    height: 100vh;
+    padding: 10px;
+    background-color: lightgray;
+}
+.blue{
+    color: blue;
+}
+table{
+    width: 35%;
+    background-color: darkgrey;
+}
+table td{
+    padding: 10px;
+    column-gap: 50px;
+}
+.color{
+    padding: 15px;
+    height: 150px;
+    background-color: rgb(112, 112, 112);
+}
+.logout{
+    position: absolute;
+    top: 15px; left: 830px;
+    padding: 5px 20px;
+    border: 1px solid rgb(4, 176, 189);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(4, 176, 189);
+}
+.button-bar a{
+    margin-right: 130px;
+    padding: 5px 20px 5px 20px;
+    border: 1px solid rgb(4, 176, 189);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(4, 176, 189);
+}
+.cyan
+{
+    color:royalblue;
+}
+p{
+    font-size: 1.5em;
+}
+.top{
+    margin-bottom: 50px;
+}
+.h4,.search{
+    margin:20px
+}
+.search{
+    padding: 5px;
+}
+.request{
+    padding: 5px 20px 5px 20px;
+    border: 1px solid rgb(4, 176, 189);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(4, 176, 189);
+}
+#red{
+    padding: 5px 20px 5px 20px;
+    border: 1px solid rgb(167, 6, 6);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(167, 6, 6);
+}
+#green{
+    padding: 5px 20px 5px 20px;
+    border: 1px solid rgb(17, 148, 5);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(17, 148, 5);
+}
+.grey{
+    left: 30px;
+    height: 50px;
+    background-color: darkgrey;
+    color: black;
+    position: absolute;
+    bottom: 300px;
+}
+.center{
+    text-align: center;
+}
+#chats{
+    width: 500px;
+    height: 300px;
+
+}
+#chats tr td{
+    padding: 5px;
+    column-gap: 5px;
+
+}
+.message{
+    background-color: grey;
+    width: 500px;
+}
+.text{
+    width: 498px;
+}

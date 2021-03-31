@@ -1,0 +1,27 @@
+*{
+    margin: 0px; padding: 0px;
+}
+body{
+    margin-top: 150px;
+    text-align: center;
+    background-color: lightgray;
+}
+.purple{
+    color: purple;
+}
+p{
+    font-size: 1.3em;
+}
+label{
+    margin:10px;
+    text-align: left;
+}
+.request{
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    border: 1px solid rgb(4, 176, 189);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(4, 176, 189);
+}
